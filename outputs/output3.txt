@@ -1,0 +1,5 @@
+Office -> Chi
+BusyInd -> GoChi
+BusyChi -> Eat
+
+Office = 41.25 Ind = 44.0 Chi = 41.25 Quiet = 10.0 BusyInd = 46.25 Eat = 52.5 Slow = 60.0 Fast = 30.0 GoChi = 46.25 BusyChi = 52.5 GoInd = 54.0 

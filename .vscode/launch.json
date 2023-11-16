@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MarkovDecisionProcess",
+            "request": "launch",
+            "mainClass": "MarkovDecisionProcess",
+            "projectName": "Markov-process-solver_1bee675f",
+            "args": ["-tol", "0.001", "-iter", "100", "inputs/input1.txt"]
+        }
+    ]
+}

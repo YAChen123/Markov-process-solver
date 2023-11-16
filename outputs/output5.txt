@@ -1,0 +1,6 @@
+Class1 -> Study1
+Class2 -> Study2
+Class3 -> Pass
+Internet -> Class1
+
+Class1 = 6.0 Study1 = 6.0 Class2 = 8.0 Study2 = 8.0 Sleep = 0.0 Class3 = 10.0 Pass = 10.0 Drink = 8.4 Pub = 9.4 FB = 5.0 Internet = 6.0 

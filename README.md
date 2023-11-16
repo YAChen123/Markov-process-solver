@@ -1,5 +1,9 @@
 # Markov-Process-Solver
 
+## Run
+type `make` in the terminal inside this repository to see all the outputs 
+
+
 ## Program
 The program should take 4 flags and an input file
 
@@ -120,3 +124,6 @@ Given a policy of F -> E, transition probabilities would be {C=.1 E=.8 G=.1}, no
 * A node referenced as an edge must separately have one of the three entries to be valid
 * Therefore to create a 0 value terminal node you must do 'name = 0'
 
+
+## Refernece
+This code is based on, and has been modified from, the MDP Solver found at [Markov Process Solver](https://github.com/TestSubjector/NYU_CSCI_GA_2560/tree/master/Lab3) by [Kumar Prasun](https://github.com/TestSubjector).
